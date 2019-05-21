@@ -6,7 +6,7 @@ This is a collection of snippets of basic data structures and algorithms written
 
 * [Stack](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/stack.py)
 * [Queue](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/queue.py)
-* [Doubly Linked ListLink](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/doubly_linked_list.py)
+* [Doubly linked list](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/doubly_linked_list.py)
 
 #### Searching
 
@@ -23,7 +23,7 @@ This is a collection of snippets of basic data structures and algorithms written
 * [Binary tree](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/binary_tree.py)
 * [Complete binary tree](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/complete_binary_tree.py)
 * [Heap](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/heap.py)
-* [Priority Queue](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/priority_queue.py)
+* [Priority queue](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/priority_queue.py)
 * [Depth-first search](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/depth_first_search.py)
 * [Breadth-first search](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/breadth_first_search.py)
 
