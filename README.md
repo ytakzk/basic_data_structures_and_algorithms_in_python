@@ -1,6 +1,6 @@
 # Basic Data Structures and Algorithms in Python
 
-This is a collection of snippets of basic data structures and algorithms written in Python.   Most of the algorithms here come from [this book](http://www.amazon.co.jp/exec/obidos/ASIN/B00U5MVXZO/sixa-22/ref=nosim/) but are written in a Python-specific manner.
+This is a collection of snippets of basic data structures and algorithms written in Python.   Most of the algorithms here come from [this book](http://www.amazon.co.jp/exec/obidos/ASIN/B00U5MVXZO/sixa-22/ref=nosim/) but are re-written in a Python-specific manner.
 
 #### Data Structures
 
