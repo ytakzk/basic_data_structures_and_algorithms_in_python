@@ -16,7 +16,7 @@ This is a collection of snippets of basic data structures and algorithms written
 
 * [Insertion sort](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/insertion_sort.py)
 * [Bubble sort](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/bubble_sort.py)
-* Selection sort
+* Selection sort(https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/selection_sort.py)
 
 #### Trees
 
