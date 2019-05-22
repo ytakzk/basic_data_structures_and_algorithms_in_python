@@ -33,3 +33,9 @@ This is a collection of snippets of basic data structures and algorithms written
 * [Prim's algorithm](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/prim_algorithm.py)
 * [Dijikstra's algorithm](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/dijkstra_algorithm_with_adjacency_list.py) (with adjacency list)
 * [Dijikstra's algorithm](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/dijkstra_algorithm_with_priority_queue.py) (with priority queue)
+
+
+#### Computational Geometry
+* [Point](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/point.py)
+* [Vector](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/vecvtor.py)
+* [Geometry](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/geometry.py)
