@@ -37,5 +37,15 @@ This is a collection of snippets of basic data structures and algorithms written
 
 #### Computational Geometry
 * [Point](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/point.py)
+  * [Counter-clockwise (ccw) predicate](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/point.py#L26)
+  
 * [Vector](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/vecvtor.py)
+
+  * [Parallel and perpendicular vectors](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/vector.py#L140-L147)
+
 * [Geometry](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/geometry.py)
+
+  * [Point projection onto a line](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/geometry.py#L10)
+  * [Point reflection across a line](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/geometry.py#L17)
+  * [Distance from a point to a line](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/geometry.py#L21)
+  * [Distance from a line to a line](https://github.com/ytakzk/basic_data_structures_and_algorithms_in_python/blob/master/geometry.py#L51)
