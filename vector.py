@@ -1,11 +1,12 @@
 import math
-from point import Point
 
-class Vector(Point):
+class Vector(object):
     
     def __init__(self, x, y, z):
 
-        Point.__init__(self, float(x), float(y), float(z))
+        self.x = x
+        self.y = y
+        self.z = z
 
     def __add__(self, other):
 
@@ -108,9 +109,14 @@ class Vector(Point):
         return self
 
     @property
+    def norm(self):
+
+        return self.x ** 2 +self.y ** 2 + self.z ** 2
+
+    @property
     def length(self):
 
-        return math.sqrt(self.x ** 2 +self.y ** 2 + self.z ** 2)
+        return math.sqrt(self.norm)
 
     @property
     def unitize(self):
@@ -140,6 +146,17 @@ class Vector(Point):
         normal = self.cross_product(other)
         return normal.x == 0 and normal.y == 0 and normal.z == 0
 
+    def __eq__(self, other):
+        
+        return self.x == other.x and self.y == other.y and self.z == other.z
+
+    def __repr__(self):
+        
+        return str(self)
+
+    def __str__(self):
+        
+        return '(%.3f, %.3f, %.3f)' % (self.x, self.y, self.z)
 
 if __name__ == '__main__':
 
